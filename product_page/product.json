@@ -1,0 +1,76 @@
+[
+        {
+            "name" : "Hain - I Quit",
+            "price": 34.99,
+            "description": "15-track album written primarily by HAIM!!", 
+            "location":"/images/quit.webp"
+        },
+        {
+            "name" : "SZA - SOS",
+            "price" : 33.97,
+            "description" : "2nd studio album by SZA",
+            "location" : "/images/download.jpeg"
+        },
+        {
+            "name" : "Billie Eilish - Hit Me Hard and Soft",
+            "price" : 34.99,
+            "description" : "10 track album by Billie Eilish",
+            "location" : "/images/billie.webp"
+        },
+        {
+            "name" : "Amy Winehouse - Back to Black",
+            "price" : 24.99,
+            "description" : "11 track album by Amy Winehouse",
+            "location" : "/images/amy.webp"
+        },
+        {
+            "name" : "Lana Del Rey - Born to Die",
+            "price": 24.99,
+            "description": "15-track album written primarily by HAIM!!", 
+            "location":"/images/quit.webp"
+        },
+        {
+            "name" : "Beatles - Abbey Road Anniversity",
+            "price" : 22.98,
+            "description" : "11 track album by the Beatles",
+            "location" : "/images/beatles.webp"
+        },
+        {
+            "name" : "Mac Miller - Swimming",
+            "price" : 30.00,
+            "description" : "13 track album by Mac Miller",
+            "location" : "/images/mac.webp"
+        },
+        {
+          "name" : "Kendrick Lamar - GNX",
+          "price" : 33.97,
+          "description" : "12 track album by Kendrick Lamar",
+          "location" : "/images/white.webp"
+        },
+        {
+            "name" : "Fleetwood Mac",
+            "price" : 26.99,
+            "description" : "11 track album by Fleetwood Mac",
+            "location" : "/images/vin.jpg"
+        },
+        {
+            "name": "The White Stripes - Elephant",
+            "price" : 30.00,
+            "description" : "14 track album by the White Stripes",
+            "location" : "/images/vstripes.jpg"
+        },
+        {
+            "name" : "Kali Uchis - Red Moon in Venus",
+            "price" : 28.00,
+            "description" : "15 track album by Kali Uchis",
+            "location" : "/images/kali.jpg"
+        }, 
+        {
+            "name" : "SZA - Control",
+            "price" : 22.98,
+            "description" : "14 track album by SZA",
+            "location" : "/images/szagreen.jpg"
+        }
+ 
+      
+    ]
